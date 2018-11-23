@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DaggerAndroidX.iml" filepath="$PROJECT_DIR$/DaggerAndroidX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidx-dagger/androidx-dagger.iml" filepath="$PROJECT_DIR$/androidx-dagger/androidx-dagger.iml" />
+    </modules>
+  </component>
+</project>
